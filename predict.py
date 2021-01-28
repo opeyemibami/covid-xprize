@@ -19,6 +19,7 @@ def predict(start_date: str,
     with columns "CountryName,RegionName,Date,PredictedDailyNewCases"
     """
     # !!! YOUR CODE HERE !!!
+    
     raise NotImplementedError
 
 
